@@ -26,3 +26,5 @@ I'm 18 years old and live in São Paulo, Brazil. I'm a gamer, cat lover and codi
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a>   
 </div>
+  
+  ![snake gif](https://github.com/danielpederzini/danielpederzini/blob/output/github-contribution-grid-snake.gif)
