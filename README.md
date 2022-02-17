@@ -16,7 +16,7 @@ I'm 18 years old and live in São Paulo, Brazil. I'm a gamer, cat lover and codi
   <a href="https://github.com/danielpederzini">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=danielpederzini&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
-
+  
 ## Contact Me
 <div>
   <a href = "mailto:pederzinidaniel@hotmail.com">
@@ -27,4 +27,4 @@ I'm 18 years old and live in São Paulo, Brazil. I'm a gamer, cat lover and codi
   </a>   
 </div>
   
-  ![snake gif](https://github.com/danielpederzini/danielpederzini/blob/output/github-contribution-grid-snake.gif)
+ <!--  ![snake gif](https://github.com/danielpederzini/danielpederzini/blob/output/github-contribution-grid-snake.gif) -->
