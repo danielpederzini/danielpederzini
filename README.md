@@ -19,7 +19,7 @@ I'm 18 years old and live in São Paulo, Brazil. I'm a gamer, cat lover and codi
   </a>   
 </div>
 
-## GithubStats
+## Stats
 <div>
   <a href="https://github.com/danielpederzini">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielpederzini&layout=compact&langs_count=7&theme=dracula"/>
