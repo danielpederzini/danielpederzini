@@ -9,6 +9,13 @@ I'm 18 years old and live in São Paulo, Brazil. I'm a gamer, cat lover and codi
 ## Just Learning
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="50" height="50" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg" width="50" height="50" />
 
+## Stats
+<div>
+  <a href="https://github.com/danielpederzini">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielpederzini&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=danielpederzini&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
+
 ## Contact Me
 <div>
   <a href = "mailto:pederzinidaniel@hotmail.com">
@@ -17,11 +24,4 @@ I'm 18 years old and live in São Paulo, Brazil. I'm a gamer, cat lover and codi
   <a href="https://www.linkedin.com/in/daniel-pederzini-414353208" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a>   
-</div>
-
-## Stats
-<div>
-  <a href="https://github.com/danielpederzini">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielpederzini&layout=compact&langs_count=7&theme=dracula"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=danielpederzini&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
