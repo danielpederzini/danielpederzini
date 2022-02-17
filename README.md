@@ -19,10 +19,10 @@ I'm 18 years old and live in São Paulo, Brazil. I'm a gamer, cat lover and codi
   
 ## Contact Me
 <div>
-  <a href = "mailto:pederzinidaniel@hotmail.com">
+  <a target="_blank" href ="mailto:pederzinidaniel@hotmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
   </a>
-  <a href="https://www.linkedin.com/in/daniel-pederzini-414353208" target="_blank">
+  <a target="_blank" href="https://www.linkedin.com/in/daniel-pederzini-414353208" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a>   
 </div>
