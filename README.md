@@ -1,7 +1,7 @@
-![Introdução GitHub](https://user-images.githubusercontent.com/79323949/154523107-a962d3b8-9611-4c5a-987d-5fb893744aed.png)
+![Introdução GitHub](https://user-images.githubusercontent.com/79323949/160476573-35013f13-e7d2-4d82-8c51-2a1fff4022cc.png)
 
 ## Hello everyone!
-I'm 18 years old and live in São Paulo, Brazil. I'm a gamer, cat lover and coding passionate. My journey started by Jan. 2021, joining a systems analysis and development course, and at the moment I work as an Android Development Intern. Always learning and having some fun in life ❤️
+I'm 18 years old and live in São Paulo, Brazil. I'm a gamer, reader, cat lover and coding passionate. My journey started by Jan. 2021, joining a systems analysis and development course, and at the moment I work as an Android Development Intern. Always learning and having some fun in life ❤️
 
 ![full-metal-alchemist-fma](https://user-images.githubusercontent.com/79323949/154533462-c22953a8-8272-4c80-9a87-c79d327608d6.gif)
 
