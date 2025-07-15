@@ -1,7 +1,3 @@
-<h1 align="left">Hey 👋 What's up?</h1>
-
-###
-
 <p align="left">I'm a passionate back-end developer and cybersecurity enthusiast.</p>
 
 ###
