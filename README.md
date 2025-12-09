@@ -2,14 +2,6 @@
 
 ###
 
-<h2 align="left">About me</h2>
-
-###
-
-<p align="left">✨ Back to tech, working as a back-end developer.<br>📚 I'm currently learning spring webflux, r2dbc, non-blocking threads in java.<br>🎯 Looking towards contributing to open-source.</p>
-
-###
-
 <h2 align="left">Main stacks</h2>
 
 ###
