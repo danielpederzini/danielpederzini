@@ -39,14 +39,6 @@ Python • Statistics • Machine Learning • Deep Learning
 
 ---
 
-## 📈 GitHub Stats
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=danielpederzini\&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=danielpederzini\&layout=compact)
-
----
-
 ## 🌎 Connect with me
 
 * LinkedIn: https://www.linkedin.com/in/daniel-pederzini
